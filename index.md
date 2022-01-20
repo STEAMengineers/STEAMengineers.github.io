@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+**STEAMengineers** is a company looking to introduce and educate people of all ages in STEAM! We believe that, with technology's exponential growth and change, it's impossible to know what skills will be needed going forward. But we can give people the confidence to approach new technologies, and learn new things without fear.
 
-You can use the [editor on GitHub](https://github.com/STEAMengineers/STEAMengineers.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Chris Huffee and Snoof Kattekop have a long history of teaching children and adults about a vast range of STEAM-related topics - digital making, code, even crochet. Unfortunately, our previous venture didn't survive COVID - but we're back for a fresh start!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you'd like to be notified when we reveal our new company, you can subscribe to our mailing list [here](https://liverpool-tech-club.mailchimpsites.com/)!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/STEAMengineers/STEAMengineers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
