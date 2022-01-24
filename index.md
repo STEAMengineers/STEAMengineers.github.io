@@ -4,4 +4,3 @@ Chris Huffee and Snoof Kattekop have a long history of teaching children and adu
 
 If you'd like to be notified when we reveal our new company, you can subscribe to our mailing list [here](https://liverpool-tech-club.mailchimpsites.com/)!
 
-beep beep testing
