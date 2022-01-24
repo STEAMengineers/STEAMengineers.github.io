@@ -1,1 +1,6 @@
-test2
+layout: page
+title: "About"
+permalink: /about/
+
+
+test
