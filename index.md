@@ -3,5 +3,3 @@
 Chris Huffee and Snoof Kattekop have a long history of teaching children and adults about a vast range of STEAM-related topics - digital making, code, even crochet. Unfortunately, our previous venture didn't survive COVID - but we're back for a fresh start!
 
 If you'd like to be notified when we reveal our new company, you can subscribe to our mailing list [here](https://liverpool-tech-club.mailchimpsites.com/)!
-
-testing beep beep
