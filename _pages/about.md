@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-STEAM Engineers is above all a community where everyone is welcome. We're currently nomadic 
+STEAM Engineers is above all a community where everyone is welcome. 
 
 Currently the team is made up of;
 
