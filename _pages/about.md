@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+STEAM Engineers is above all a community where everyone is welcome. We're currently nomadic 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently the team is made up of;
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Snoof 
+
+An artist and maker with too many skills to list here, have a look on her blog to get a flavour. She's got years of experience delivering community workshops for children and adults alike. 
+
+### Chris
+
+Chris Huffee has a degree in physics and is a qualified teacher.  Chris is a keen photographer and maker. His Instructables can be found here.
 
 
-[jekyll-organization]: https://github.com/jekyll
+On our board is;
+
+### Adrian
+
+Literally wrote the book on IoT and was one of the founders of DoES Liverpool. If you know you know, and if you don't you really should find out.
