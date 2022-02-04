@@ -13,6 +13,6 @@ For adults, STEAM can open up pathways to mental health, self-confidence, and (s
 
 For children, learning about STEAM teaches them skills which will be invaluable throughout their lives as technology continues to evolve at an exponential pace. It's not necessarily about the specific software, code or equipment we teach them to use - the most important lesson is in self-confidence around tech and the knowledge that this is an area in which they can excel, even if it seems impossibly complicated at first. We also provided a space for children whose interests fell a little outside the norm, to make friends and socialise with others who shared those interests.
 
-And, not insignificantly - we loved it. We've missed everyone, and we've missed the opportunity to meet new kids and adults and helping them learn new skills. Every single person who ever attended, brought something new to appreciate.
+And, not insignificantly - we loved it. We've missed everyone, and we've missed the opportunity to meet new kids and adults and help them learn new skills. Every single person who ever attended, brought something new to appreciate.
 
 STEAM is not just about its component parts - for us, it's about the people who work together to build something new.
