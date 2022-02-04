@@ -6,7 +6,7 @@ permalink: /about/
 
 STEAM Engineers is above all a community where everyone is welcome. 
 
-Currently the team is made up of;
+### Currently the team is made up of:
 
 ### Snoof 
 
@@ -17,7 +17,7 @@ An artist and maker with too many skills to list here. She's got years of experi
 Chris Huffee has a degree in physics and is a qualified teacher.  Chris is a keen photographer and maker. His Instructables can be found [here](https://www.instructables.com/member/huffee/).
 
 
-On our board is;
+### On our board is:
 
 ### Adrian
 
