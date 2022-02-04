@@ -5,7 +5,7 @@ permalink: /
 ---
 ### STEAM powered workshops
 
-We are Chris Huffee and Snoof Kattekop. Prior to the pandemic, we were part of a small community makerspace that sought to introduce people to making, and give them an opportunity to learn about digital making, coding and art in a fun, safe and helpful environment. COVID-19 put a stop to that, but we are ready to strike out and start over.
+We are Chris Huffee and Snoof Kattekop. Prior to the pandemic, we were part of a small community makerspace that sought to introduce people to making, and give them an opportunity to learn about digital making, coding and art in a fun, safe and helpful environment. COVID-19 put a stop to that, but we are ready to shake it off and start over.
 
 We believe that Science, Technology, Engineering, Art and Maths should be available to everyone. We've seen the power of STEAM in building community and mental health, we've seen people start small businesses, and we are members of [DoES Liverpool](https://doesliverpool.com/) which is an amazing community makerspace to which we introduced members who were happy to take off the training wheels.
 
