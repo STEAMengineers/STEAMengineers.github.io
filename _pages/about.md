@@ -27,7 +27,7 @@ Finn is 13 and is our code expert. He has extensive experience in managing tuck 
 ---
 
 
-**On our board is:**
+**On our advisory committee is:**
 
 
 ### Adrian
