@@ -16,4 +16,4 @@ If you want to have a look at these tools we recommend the tutorials at Code Clu
 
 
 We also went to Liverpool Central library for the launch for the Year of Spoken Word. We took our [talking robot](https://twitter.com/STEAM_engineers/status/1497522572619137027)
-Using Edublocks [https://edublocks.org/] we wrote code to make the robot speak. It was great to meet some new faces and old friends. We know the library well from [Code Club](http://liverpoolcodeclub.org/) and [Makefest](https://liverpoolmakefest.org/) and we’re looking forward to doing more with them very soon. If you’ve never been to a makefest before get the 2nd July in your diaries now, it’s a free event you really don’t want to miss. 
+Using [Edublocks](https://edublocks.org/) we wrote code to make the robot speak. It was great to meet some new faces and old friends. We know the library well from [Code Club](http://liverpoolcodeclub.org/) and [Makefest](https://liverpoolmakefest.org/) and we’re looking forward to doing more with them very soon. If you’ve never been to a makefest before get the 2nd July in your diaries now, it’s a free event you really don’t want to miss. 
