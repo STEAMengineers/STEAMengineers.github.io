@@ -1,10 +1,10 @@
 - name: Home
   link: http://www.steamengineers.co.uk
 - name: About
-  link: about
+  link: /about
 - name: Accessibility
-  link: accessibility
+  link: /accessibility
 - name: Blog
-  link: blog
+  link: /blog
 - name: Contact
-  link: contact
+  link: /contact
