@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   STEAMengineers is a company looking to introduce and educate people of all ages in STEAM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: STEAM_engineers
+github_username:  STEAMengineers
 
 # Build settings
 markdown: kramdown
