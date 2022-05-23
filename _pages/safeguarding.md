@@ -13,6 +13,6 @@ Other policies that may be of interest are:
 
   * [Equal Opportunities Policy](STEAMEngCICEqualOps.pdf)
   * [Anti Bullying Policy](STEAMEngAntiBullying.pdf)
-  * [Grievance Procedure](STEAMEngGrievance.pdf)
+  * [Grievance Procedure](STEAMEngCICGrievance.pdf)
 
 For any other questions or concerns, please never hesitate to get in touch.
