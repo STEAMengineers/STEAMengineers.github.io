@@ -33,3 +33,7 @@ Finn is 13 and is our code expert. He has extensive experience in managing tuck 
 ### Adrian
 
 [Adrian](https://mcqn.com/) literally wrote the book on IoT and was one of the founders of [DoES Liverpool](https://www.doesliverpool.com). If you know you know, and if you don't you really should find out.
+
+### Vicky
+
+Vicky Connolly is local to Liverpool and works in ambulance dispatch. She has a keen interest in digital making and has been a part of the wider STEAM Engineers family since its inception.
