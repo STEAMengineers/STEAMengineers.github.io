@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "And Then There Was a Book"
-date:   2022-05-30 12:17:13 +0000
+date:   2023-04-09 14:31:00 +0000
 categories: update
 ---
+
 We have an activity coming on the 29th of April, in Liverpool Central Library, surrounding the coronation.
 
 And when we were discussing what we'd do for the coronation, Chris innocently said the words, "coronation chicken."
