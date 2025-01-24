@@ -13,6 +13,7 @@ As I'm writing this, Chris is refreshing various tracking pages every 7 minutes 
 Chris does some really mysterious stuff I need to get a better handle on - he draws little paths and figures out what needs to go where to make it all work. It's very exciting to see, and even more excitingly, I get to draw my silly little pictures and see them become part of the PCB!
 
 ![image](https://github.com/user-attachments/assets/72f56c1f-cec2-4c5e-b83b-0407d0159474)
+
 (Image ID: the front of a screenprinted PCB showing a happy robot face on an 80s bus seat background. Each eye and the bobble at the end of the robot's antenna has a little rectangular hole in it. The board is held by a white hand. End ID.)
 
 I really enjoy the process for these, because Chris works really hard to figure out ways to make my ideas work - it will get easier as I learn how to gauge what's possible. I had to restart BlinkieBot up there a couple of times, so working on saving my work appropriately (still), but I'll get there!
