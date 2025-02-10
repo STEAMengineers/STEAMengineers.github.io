@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Reflow Soldering Workshop"
-date:   2025-02-05 15:00:00 +0000
 ---
-Last Wednesday, on the 29th of January, we held a little soldering workshop in [DoES Liverpool](https://doesliverpool.com/). DoES is a shared workshop and coworking space run by and for the community, and some of what we could contribute was putting on this workshop in tandem with [MCQN](https://mcqn.com/) (with special thanks to Terry and Paul!).
+Wednesday the 29th of January, we held a little soldering workshop in [DoES Liverpool](https://doesliverpool.com/). DoES is a shared workshop and coworking space run by and for the community, and some of what we could contribute was putting on this workshop in tandem with [MCQN](https://mcqn.com/) (with special thanks to Terry and Paul!).
 
 The plan was reasonably simple (isn't it always? isn't that how they get you?) - run a three-hour drop-in workshop for people who wanted a go at reflow and regular soldering, with MCQN boards that needed doing anyway, and with some STEAMengineers boards for those willing to part with a few quid to take something home with them.
 
