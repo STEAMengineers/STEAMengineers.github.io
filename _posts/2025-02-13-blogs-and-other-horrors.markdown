@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Blogs and Other Horrors"
+date:   2025-02-13 15:00:00 +0000
 ---
 Get a website, they said... Put a blog on it, they said... Keep updating your blog sometimes instead of just being silent all the time, they said (I'm looking at you, Adrian, and I'm making angry eyes).
 
