@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Making A Simple Character"
-date:   2025-02-17 12:13:00 +0000
+date:   2025-02-19 07:00:00 +0000
 ---
-Chris is working on a post about PCB creation, but Chris is also working on 700 other things. So while we wait for that, I thought I'd share a little shortcut I sometimes use to make illustrations. It's only one of many ways I make pictures (I also draw and paint both analog and digital pictures, and sometimes mix the two) but maybe it'll help someone who's a bit stuck. As [Michael Dales](https://mastodon.me.uk/@michael@mynameismwd.org) (sorry to link to his mastodon, but he does so many incredible things I couldn't pick a website) pointed out, sharing is a radical act in a society where everything turns on marketability and monetisation.
+Chris is working on a post about PCB creation, but Chris is also working on 700 other things. So while we wait for that, I thought I'd share a little shortcut I sometimes use to make quick illustrations. It's only one of many ways I make pictures (I also draw and paint both analog and digital pictures, and sometimes mix the two) but maybe it'll help someone who's a bit stuck. As [Michael Dales](https://mastodon.me.uk/@michael@mynameismwd.org) (sorry to link to his mastodon, but he does so many incredible things I couldn't pick a website) pointed out, sharing is a radical act in a society where everything turns on marketability and monetisation.
 
 So here we go. You want to make a simple image - these are especially helpful when you're making content of any type for kids, for example. For the sake of my reputation, let's call it a little robot face.
 
