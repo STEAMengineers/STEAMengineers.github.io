@@ -39,6 +39,12 @@ For photo manipulation, we swear by [GIMP](https://www.gimp.org/). It's effectiv
 
 [Krita](https://krita.org/en/) is Snoof's top choice for digital painting. It's again open source, something we lean into to ensure as much economic accessibility as possible and to support the incredible work of the open source community, and it is very powerful. Free brushes of various types are available as standard, and to download as packs from other artists.
 
+#### Electronics and Soldering ####
+
+If you're new to electronics, Adafruit have a [very simple tutorial](https://learn.adafruit.com/guides/beginner) to get you started. It does start from the very beginning, and is aimed at younger users, but it's quite a good way to get on the road.
+
+Soldering-wise, there's an old [playlist of soldering lessons](https://www.youtube.com/watch?v=vIT4ra6Mo0s&list=PL926EC0F1F93C1837) on youtube that gets into the nitty gritty of it all. The videos are quite long, but they really demystify the process of soldering, and they're well worth a watch.
+
 #### Finding Making Projects ####
 
 It's often difficult to find an entry point. You want to do more making, but what? And how? We sometimes contribute to [Instructables](https://www.instructables.com/) to help build a rich collection of various projects. Recipes, sewing, welding, coding, lasercutting... The list really is endless. If you come up with your own project, you can easily write a step by step tutorial to make it available to others, too.
