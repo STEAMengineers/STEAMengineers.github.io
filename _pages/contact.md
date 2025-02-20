@@ -6,7 +6,7 @@ permalink: /contact
 
 ## Contact
 
-To find our social media, please click on the relevant icons in the navigation menu.
+To find our social media or subscribe to our feed, please click on the relevant icons in the navigation menu.
 
 - For general enquiries, email us at [hello@steamengineers.co.uk](mailto:hello@steamengineers.co.uk).
 - For accessibility enquiries, email us at [access@steamengineers.co.uk](mailto:access@steamengineers.co.uk).
