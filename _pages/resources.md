@@ -19,6 +19,8 @@ For very young children who are unable to read or write confidently yet, [Scratc
 
 Slightly older kids can get their teeth into [Scratch](https://scratch.mit.edu/) where they can have a personal account to which to save their projects. These personal accounts are secure and don't allow for private contact between users. There are almost as many Scratch tutorials as there are stars in the sky, and kids will be surprised at what they can create. They can use their own digital art as backgrounds or sprites, too, so it can be perfect for kids who enjoy art.
 
+The same people have also come up with [MicroBlocks](https://microblocks.fun/), which is very intuitive and will have you up and running in no time.
+
 [MakeCode Arcade](https://arcade.makecode.com/) is a little more complicated, but also allows for more complexity. Kids are, again, able to run a secure account on which they can save their projects, and there are plenty of tutorials available to follow, learn from, and base future games on.
 
 *More traditional code* is obviously very useful, and which code you use for which project can depend on a huge number of factors. We have some recommendations, but there are really too many options to mention.
@@ -31,6 +33,8 @@ If you're looking for Unity, Python, and others - Raspberry Pi have a whole [lib
 
 3D printing has been a very popular form of making for a while now, but a lot of people aren't sure where to start. Some of the software is very good, but can have a steep learning curve. We recommend people get started with [TinkerCAD](https://www.tinkercad.com/dashboard) which allows you to make a free (and safe) account on which you can save your designs. TinkerCAD is very intuitive and easy to learn, which can really help you get to grips with the concepts. Makerspaces may have 3D printers you can use so you don't have to buy one to get stuck in, but designing in 3D is a skill in and of itself. If you're looking to do 3D design that's more advanced, and can be used for animation and games design, then maybe [Blender](https://www.blender.org/) is of interest, although it is known for its complexity. Fortunately, they have [a comprehensive manual](https://docs.blender.org/manual/en/latest/) and tutorials can be found on social media under the #b3d hashtag.
 
+Another option is [FreeCAD](https://www.freecad.org/), which offers the ability to design 3D models with parametric features. FreeCAD is quite popular, and tutorials are easy to find.
+
 #### Other Software We Recommend ####
 
 For lasercutting, or anything else where vectors can be helpful, we always recommend [Inkscape](https://inkscape.org/). It's powerful, it's clever, and it's open source. It can be a bit of a bear at first, but we recommend just jumping in at the deep end. Remember, if you're making a file specifically to experiment - you can't break anything you're going to need later!
@@ -38,6 +42,8 @@ For lasercutting, or anything else where vectors can be helpful, we always recom
 For photo manipulation, we swear by [GIMP](https://www.gimp.org/). It's effectively an open source alternative to Photoshop, and while again it can take a while to get comfortable with - what software doesn't? As a little note, when you've made a design in Inkscape you can save it as a .xcf, which is the proprietary file extension for GIMP, and which Snoof always uses to maintain image quality in the process.
 
 [Krita](https://krita.org/en/) is Snoof's top choice for digital painting. It's again open source, something we lean into to ensure as much economic accessibility as possible and to support the incredible work of the open source community, and it is very powerful. Free brushes of various types are available as standard, and to download as packs from other artists.
+
+If you're into PCB design, [KiCad](https://www.kicad.org/) is an impressive piece of software. You can tell a lot of thought has gone into the functionality of it, and it's never far from Chris's mind.
 
 #### Electronics and Soldering ####
 
