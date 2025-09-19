@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Finally"
-date:   2022-02-16 10:01:00 +0000
 categories: update
 ---
 
